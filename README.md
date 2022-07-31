@@ -1,3 +1,3 @@
 # Jem Warzywa
 
-One page HTLM + SS
+One page HTLM + CSS
